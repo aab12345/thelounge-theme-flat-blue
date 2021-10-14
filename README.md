@@ -26,13 +26,13 @@
 <a href="https://www.buymeacoffee.com/zen262176" target="_blank"><img src="https://lounge-group.co.uk/by-me-a-coffee.png" alt="Buy Me A Coffee"></a>
 </p>
 
-## Installation :sparkles: (https://bit.ly/3i9eMEb)
+## Installation :sparkles: (https://bit.ly/3BHVPPT)
 Install this theme with npm:
 
 ```sh
 thelounge install thelounge-theme-flat-blue
 ```
 
-## Issues :sparkles: ![GitHub issues](https://img.shields.io/github/issues/aab12345/thelounge-theme-flat-blue?color=green&style=plastic) ![GitHub closed issues](https://img.shields.io/github/issues-closed/el-profesor926/thelounge-theme-flat-blue?color=orange&style=plastic)
+## Issues :sparkles: ![GitHub issues](https://img.shields.io/github/issues/aab12345/thelounge-theme-flat-blue?color=green&style=plastic) ![GitHub closed issues](https://img.shields.io/github/issues-closed/aab12345/thelounge-theme-flat-blue?color=orange&style=plastic)
 If you have an issue, change request or comments about this theme please report it below:<br/>
 <a href="https://github.com/aab12345/thelounge-theme-flat-blue/issues">/thelounge-theme-flat-blue/issues</a>
