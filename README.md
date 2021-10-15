@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-	<img src="Screenshots/Screenshot2.png" alt="Screenshot of the flat Blue theme for The Lounge Chat">
+	<img src="Screenshots/Template_02.png" alt="Screenshot of the flat Blue theme for The Lounge Chat">
 </p>
 
 <p align="center">
