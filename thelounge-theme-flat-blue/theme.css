@@ -23,6 +23,11 @@ form.message-search .input-wrapper input {
     color: #b7c5cc;
 }
 
+/* Fixes 4.3.0 Userlist overlay issue */
+#chat .msg {
+    position:static !important;
+}
+
 /* Chat message input box */
 #form {
   background: var(--chat-background);
