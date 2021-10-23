@@ -12,9 +12,9 @@
 	color: rgba(131, 148, 150, 0.9);
 }
 
-/* New 4.3.0 FIX #4279 */
+/* New 4.3.0 FIX #4279 "z-index: 1;" doesn't work (needs testing) */
 #chat .userlist {
-	z-index: 1;
+	position: relative;
 }
 
 /* New 4.3.0 search input text color */
@@ -84,8 +84,6 @@ html {
 	scrollbar-color: hsl(192, 100%, 25%) hsla(192, 100%, 25%, 10%);
 	scrollbar-width: thin;
 }
-
-
 
 .logo-inverted {
   display: none;
