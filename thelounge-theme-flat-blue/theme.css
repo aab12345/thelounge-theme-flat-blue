@@ -1,10 +1,10 @@
 /*!
- * A simple flat theme with dark colours
+ * A simple flat theme with blue colours
  * By aab12345
  *
  * License: MIT
- * Compatible with The Lounge 4.2.0/4.3.0
- * Last Updated: 22/10/2021
+ * Compatible with The Lounge 4.2.0 / 4.3.0
+ * Last Updated: 23/10/2021
  */
 
 /* Samsung Internet and Microsoft Edge (yes, both of them use -webkit- prefix) */
@@ -23,17 +23,25 @@ form.message-search .input-wrapper input {
     color: #b7c5cc;
 }
 
-/* Fixes 4.3.0 Userlist overlay issue */
-#chat .msg {
-    position: sticky;
+/* Stop search field sporadically going from square edges to rounded edges  */
+input[type=search] {
+  -webkit-appearance: none;
 }
 
-/* Chat message input box */
-#form {
-  background: var(--chat-background);
-  border-top: 0;
-  padding: 10px;
-  margin: 0 10px 10px 10px; 
+/* Hide close button on channels, it is not used that frequently */
+#sidebar .chan.channel .close {
+    display: none;
+}
+
+/* 4.2.0 - Show nick in type message box */
+#form #nick { 
+  display: unset; 
+}
+
+/* 4.2.0 - Change version checker color box */
+#version-checker.up-to-date {
+    background-color: #003366;
+    color: #ffffff;
 }
 
 :root {
@@ -41,7 +49,7 @@ form.message-search .input-wrapper input {
 	--window-bg-color: #1c5780;
 	--body-color: #fff;
 	--body-color-muted: #b7c5d1;
-	--link-color: #003366;
+	--link-color: #ffffff;
 	--unread-marker-color: #268bd2;
 	--date-marker-color: #edf10a;
 	--highlight-bg-color: #4d88b1;
@@ -72,9 +80,7 @@ html {
 	scrollbar-width: thin;
 }
 
-#form #nick { 
-  display: unset; 
-}
+
 
 .logo-inverted {
   display: none;
@@ -228,7 +234,6 @@ body {
 #chat .content,
 #chat .userlist {
 	border-color: var(--background-light-color);
-	position: sticky;
 }
 
 #chat .userlist .search,
