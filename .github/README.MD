@@ -26,6 +26,10 @@
 </p>
 
 <p align="center">
+	<img src="../thelounge-theme-flat-blue/Screenshots/Screenshot_Mobile_Render_02" alt="Screenshot of the flat Blue theme for The Lounge Chat">
+</p>
+
+<p align="center">
 <a href="https://www.buymeacoffee.com/aab12345" target="_blank">Buy Me A Coffee</a>
 </p>
 
