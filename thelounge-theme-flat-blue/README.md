@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="../thelounge-theme-flat-blue/img/Flat-Blue-Logo.png" alt="Logo">
+	<img src="https://github.com/aab12345/thelounge-theme-flat-blue/blob/main/thelounge-theme-flat-blue/img/Flat-Blue-Logo.png" alt="Logo">
 </h1>
 
 <h3 align="center">
