@@ -29,10 +29,6 @@
 	<img src="../thelounge-theme-flat-blue/Screenshots/Screenshot_Mobile_Demo_02.png" alt="Screenshot of the Flat Dark theme for The Lounge Chat" width=300>
 </p>
 
-<p align="center">
-<a href="https://www.buymeacoffee.com/aab12345" target="_blank">Buy Me A Coffee</a>
-</p>
-
 [NPM Package Page](https://www.npmjs.com/package/thelounge-theme-flat-blue)
 ## Installation :sparkles:
 Install this theme with npm:
